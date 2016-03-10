@@ -1,0 +1,23 @@
+{
+  "name": "bearday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-karma": "0.0.5",
+    "gulp-less": "^3.0.5",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.21",
+    "karma-jasmine": "^0.3.7",
+    "mount-tasks": "^1.0.4",
+    "require-dir": "^0.3.0"
+  }
+}
